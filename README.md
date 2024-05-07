@@ -7,7 +7,7 @@ Welcome to the final project repository for ECE241 at the University of Toronto!
 # Key Features
 Gameplay Mechanics:
 The player can move in four directions using the arrow keys on a PS/2 keyboard.
-The player can shoot in four directions using the keyboard's WASD keys.
+The player can shoot in four directions using the keyboard's space key and the shooting direction is the last moving direction.
 Enemies spawn at random positions and steadily increase in difficulty over time.
 
 VGA Graphics Output:
