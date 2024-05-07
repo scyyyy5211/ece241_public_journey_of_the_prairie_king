@@ -1,5 +1,5 @@
 # Overview
-Welcome to the final project repository for ECE241 at the University of Toronto! In this project, our team of two recreated "Journey of the Prairie King," an arcade game popularized in the game Stardew Valley. Our implementation focuses specifically on the first level and utilizes Verilog programming on a DE1-SoC FPGA board.
+Welcome to the final project repository for ECE241 at the University of Toronto! In this project, our team of two recreated "Journey of the Prairie King," an arcade game in the game Stardew Valley. Our implementation focuses specifically on the first level and utilizes Verilog programming on a DE1-SoC FPGA board.
 
 # The Game
 "Journey of the Prairie King" is a retro-inspired top-down shooter that presents the player with waves of enemies and challenges to overcome. The player's goal is to navigate through a Wild West-themed landscape, eliminate enemies, and collect coins for power-ups. Our project accurately replicates the first level's gameplay, sound effects, and visuals for an engaging player experience.
