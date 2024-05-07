@@ -31,3 +31,7 @@ PS/2 Keyboard: The primary user input device for movement and actions in the gam
 VGA Monitor: For high-quality visual display.
 
 On-Chip RAM: Efficient memory storage and retrieval for sprites and game states.
+
+# Demo
+https://github.com/scyyyy5211/ece241_public_journey_of_the_prairie_king/assets/148297802/82498b68-1cb5-46dc-9f59-8a68aaeea6f2
+
